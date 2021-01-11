@@ -1,0 +1,17 @@
+! My personal list of websites I would like to block at home.
+! 
+!
+!YouTube
+||googlevideo.com^
+||youtube-ui.l.google.com^
+||youtube.com^
+||youtubei.googleapis.com^
+||ytimg.com^
+||ytimg.l.google.com^
+||ytstatics.l.google.com^
+!
+! Netflix
+||netflix.com^
+||nflxso.net^
+||nflxext.com^
+||nflximg.com^
